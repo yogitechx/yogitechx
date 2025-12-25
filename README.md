@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Yogesh Soppa
+- **Programmer, Conversational AI, Gen AI Professional**
   
 ## 🧠 Professional Summary
 - Product Engineer specializing in **Conversational AI, Chatbots, IVR, and Cloud Automation**
@@ -69,6 +70,11 @@
 - Engineering Manager / Technical Lead
 - Automation & AI Architect
 
+## 🎯 Certification
+**[Amazon Connect Developer](https://www.credly.com/earner/earned/badge/863ad4bb-7684-40bb-9bbe-1042457d1803)** 
+**[AWS Certified Solutions Architect – Associate](https://www.credly.com/earner/earned/badge/26ef8d0f-170c-49b3-bc50-49c49028034e)**
+**[Blue Prism Certified Developer](https://www.credly.com/earner/earned/badge/9ce49eee-7637-4ec0-a4e5-b9c730ac7875)**
+
 ---
 
 ## 📬 Contact Information
@@ -80,4 +86,5 @@
 <!---
 yogitechx/yogitechx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+refer : https://github.com/joshmadakor1
 --->
