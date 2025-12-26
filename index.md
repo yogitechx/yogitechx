@@ -1,19 +1,14 @@
 ---
-layout: post
-title: "Welcome to My Blog"
-permalink: /
+layout: default
+title: "My Awesome Blog"
 ---
 
-# Hello World! 🚀
+# Welcome to My Tech Blog! 🚀
 
-This is my first GitHub Pages blog with a beautiful theme and **Disqus comments**.
+**Technical deep dives on AWS, Conversational AI, Cloud Architecture, and career growth.**
 
-## What you'll find here
-- Technical tutorials on AWS, Conversational AI, and cloud architecture
-- Career advice for senior engineers
-- Fitness journey updates
+## Latest Posts
+- **[Hello World - My First GitHub Pages Post](/2025/12/26/hello-world.html)**  
+  Why GitHub Pages + Jekyll is perfect for technical blogs
 
-Check out my [first post](/2025/12/26/hello-world.html) below!
-
----
 *Site powered by GitHub Pages + Jekyll*
