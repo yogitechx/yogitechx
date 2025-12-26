@@ -2,7 +2,7 @@
 title: My Awesome Blog
 description: "Technical blog on AWS, AI & Cloud Architecture"
 baseurl: ""
-url: "https://yogitechx.github.io/"
+url: "https://yogitechx.github.io/yogitechx"
 theme: jekyll-theme-architect
 
 # Build settings
