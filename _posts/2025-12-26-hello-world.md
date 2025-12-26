@@ -17,6 +17,9 @@ Welcome to my brand new blog built with **GitHub Pages** and **Jekyll**!
 
 ## Tech Stack
 Jekyll (Static Site Generator)
+
 GitHub Pages (Free Hosting)
+
 Disqus (Comments)
+
 Minimal Theme (Clean Design)
