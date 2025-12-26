@@ -16,3 +16,7 @@ Welcome to my brand new blog built with **GitHub Pages** and **Jekyll**!
 - **Built-in CDN** worldwide
 
 ## Tech Stack
+Jekyll (Static Site Generator)
+GitHub Pages (Free Hosting)
+Disqus (Comments)
+Minimal Theme (Clean Design)
