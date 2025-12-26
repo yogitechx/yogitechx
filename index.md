@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "My Awesome Blog"
+title: "YogiTechX Blog"
 ---
 
-# Welcome to My Tech Blog! 🚀
+# Welcome to YogiTechX! 🚀
 
-**Technical deep dives on AWS, Conversational AI, Cloud Architecture, and career growth.**
+**AWS Connect | Conversational AI | Cloud Architecture**
 
 ## Latest Posts
-- **[Hello World - My First GitHub Pages Post](/2025/12/26/hello-world.html)**  
-  Why GitHub Pages + Jekyll is perfect for technical blogs
+- **[Hello World](/yogitechx/2025/12/26/hello-world.html)**  
+  My first GitHub Pages technical post
 
-*Site powered by GitHub Pages + Jekyll*
+*Powered by GitHub Pages + Jekyll*
