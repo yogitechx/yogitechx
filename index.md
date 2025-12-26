@@ -13,7 +13,7 @@ This is my first GitHub Pages blog with a beautiful theme and **Disqus comments*
 - Career advice for senior engineers
 - Fitness journey updates
 
-Check out my [first post](/_posts/2025/12/26/hello-world.md) below!
+Check out my [first post](/2025/12/26/hello-world.html) below!
 
 ---
 *Site powered by GitHub Pages + Jekyll*
