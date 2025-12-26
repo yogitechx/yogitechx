@@ -1,1 +1,15 @@
+# Site settings
+title: Technical Blog
+description: "Hello World site with Disqus comments"
+baseurl: ""
+url: "https://yogitechx.github.io"
 theme: jekyll-theme-minimal
+
+# Disqus comments
+disqus:
+  shortname: your-disqus-shortname  # Replace after Disqus setup
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
