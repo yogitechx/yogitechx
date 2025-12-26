@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Hello World - My First GitHub Pages Post"
+title: "Hello World - YogiTechX First Post"
 date: 2025-12-26 22:00:00 +0530
-permalink: /2025/12/26/hello-world.html
+permalink: /yogitechx/2025/12/26/hello-world.html  # ← Include /yogitechx/
 ---
 
-# Hello World! 🌍
+# Hello World from YogiTechX! 🌍
 
 Welcome to my brand new blog built with **GitHub Pages** and **Jekyll**!
 
