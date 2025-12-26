@@ -1,1 +1,36 @@
----\n---\n@import "{{ site.theme }}";
+---
+---
+
+// Import theme styles
+@import "jekyll-theme-minimal";
+
+// Custom overrides
+.site-header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+}
+
+.post-header {
+  background: #f8f9fa;
+  padding: 2rem;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+}
+
+.post-content h2 {
+  color: #667eea;
+  border-left: 4px solid #667eea;
+  padding-left: 1rem;
+}
+
+.btn {
+  background: #667eea;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #5a67d8;
+}
