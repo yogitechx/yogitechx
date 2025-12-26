@@ -23,3 +23,13 @@ GitHub Pages (Free Hosting)
 Disqus (Comments)
 
 Minimal Theme (Clean Design)
+
+## Next Steps
+1. **Customize** the theme colors
+2. **Add more posts** in `_posts/`
+3. **Enable comments** (Disqus setup below)
+4. **Add analytics** (Google Analytics)
+
+What topics would you like to see? Share below! 👇
+
+{% include comments.html %}
