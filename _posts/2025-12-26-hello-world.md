@@ -20,8 +20,6 @@ Jekyll (Static Site Generator)
 
 GitHub Pages (Free Hosting)
 
-Disqus (Comments)
-
 Minimal Theme (Clean Design)
 
 ## Next Steps
@@ -30,6 +28,3 @@ Minimal Theme (Clean Design)
 3. **Enable comments** (Disqus setup below)
 4. **Add analytics** (Google Analytics)
 
-What topics would you like to see? Share below! 👇
-
-{% include comments.html %}
