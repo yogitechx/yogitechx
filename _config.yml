@@ -1,13 +1,9 @@
 # Site settings
-title: Technical Blog
-description: "Hello World site with Disqus comments"
+title: My Awesome Blog
+description: "Hello World site powered by GitHub Pages"
 baseurl: ""
-url: "https://yogitechx.github.io"
+url: "https://yogitechx.github.io/yogitechx/"
 theme: jekyll-theme-minimal
-
-# Disqus comments
-disqus:
-  shortname: your-disqus-shortname  # Replace after Disqus setup
 
 # Build settings
 markdown: kramdown
