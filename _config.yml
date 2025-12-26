@@ -1,9 +1,9 @@
 # Site settings
 title: My Awesome Blog
-description: "Hello World site powered by GitHub Pages"
+description: "Technical blog on AWS, AI & Cloud Architecture"
 baseurl: ""
-url: "https://yogitechx.github.io/yogitechx/"
-theme: jekyll-theme-minimal
+url: "https://yogitechx.github.io/"
+theme: jekyll-theme-architect
 
 # Build settings
 markdown: kramdown
